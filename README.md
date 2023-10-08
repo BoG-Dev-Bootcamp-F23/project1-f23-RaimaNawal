@@ -70,4 +70,4 @@ This panel should change accordingly as the user switches between Pokémon. Make
 Like the info panel, the moves should change accordingly as the user switches between Pokémon. This panel should simply list the names of all the Pokémon's moves.
 
 # Link to Submission Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gwzI2sXSf0s?si=zX4SS2VBEQKsFM4v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Pokedex](https://www.youtube.com/watch?v=gwzI2sXSf0s)
